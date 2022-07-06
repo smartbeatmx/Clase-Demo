@@ -1,0 +1,31 @@
+.wp-block-image {
+    margin: 0 0 1em;
+}
+
+.wp-block-image img {
+    height: auto;
+    max-width: 100%;
+    vertical-align: bottom;
+}
+
+.wp-block-image:not(.is-style-rounded) > a, .wp-block-image:not(.is-style-rounded) img {
+    border-radius: inherit;
+}
+
+ol, ul {
+    box-sizing: border-box;
+}
+
+:root {
+    --wp--preset--font-size--normal: 16px;
+    --wp--preset--font-size--huge: 42px;
+}
+
+html :where(.has-border-color), html :where([style*="border-width"]) {
+    border-style: solid;
+}
+
+html :where(img[class*="wp-image-"]) {
+    height: auto;
+    max-width: 100%;
+}
