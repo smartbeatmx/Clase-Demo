@@ -206,14 +206,14 @@ html :where(img[class*="wp-image-"]) {
 /*** uncss> filename: https://smartbeatmx.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.23 ***/
 @font-face {
   font-family: revicons;
-  src: url(/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888);
-  src: url(/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888);
+  src: url(https://smartbeat.com.mx/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix)
       format("embedded-opentype"),
-    url(/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888)
+    url(https://smartbeat.com.mx/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888)
       format("woff"),
-    url(/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888)
+    url(https://smartbeat.com.mx/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888)
       format("truetype"),
-    url(/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons)
+    url(https://smartbeat.com.mx/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -1552,16 +1552,16 @@ footer .mkd-footer-inner {
  */
 @font-face {
   font-family: "FontAwesome";
-  src: url("/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0");
-  src: url("/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.eot#iefix&v=4.7.0")
+  src: url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0");
+  src: url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.eot#iefix&v=4.7.0")
       format("embedded-opentype"),
-    url("/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0")
       format("woff2"),
-    url("/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0")
       format("woff"),
-    url("/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0")
       format("truetype"),
-    url("/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular")
       format("svg");
   font-weight: normal;
   font-style: normal;
@@ -1599,14 +1599,14 @@ footer .mkd-footer-inner {
 /*** uncss> filename: https://smartbeatmx.com/wp-content/themes/topfit/assets/css/elegant-icons/style.min.css?ver=6.0 ***/
 @font-face {
   font-family: "ElegantIcons";
-  src: url("/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.eot");
-  src: url("/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.eot#iefix")
+  src: url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.eot");
+  src: url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.eot#iefix")
       format("embedded-opentype"),
-    url("/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.woff")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.woff")
       format("woff"),
-    url("/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.ttf")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.ttf")
       format("truetype"),
-    url("/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.svg#ElegantIcons")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/elegant-icons/fonts/ElegantIcons.svg#ElegantIcons")
       format("svg");
   font-weight: normal;
   font-style: normal;
@@ -1629,128 +1629,116 @@ footer .mkd-footer-inner {
   content: "\4d";
 }
 /*** uncss> filename: https://smartbeatmx.com/wp-content/themes/topfit/assets/css/ion-icons/css/ionicons.min.css?ver=6.0 ***/
-@charset "UTF-8"; /*!
-  Ionicons, v2.0.0
-  Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
-  https://twitter.com/benjsperry  https://twitter.com/ionicframework
-  MIT License: https://github.com/driftyco/ionicons
-
-  Android-style icons originally built by Google’s
-  Material Design Icons: https://github.com/google/material-design-icons
-  used under CC BY http://creativecommons.org/licenses/by/4.0/
-  Modified icons to fit ionicon’s grid from original.
-*/
 @font-face {
   font-family: "Ionicons";
-  src: url("/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.eot?v=2.0.0");
-  src: url("/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.eot?v=2.0.0#iefix")
+  src: url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.eot?v=2.0.0");
+  src: url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.eot?v=2.0.0#iefix")
       format("embedded-opentype"),
-    url("/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.ttf?v=2.0.0")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.ttf?v=2.0.0")
       format("truetype"),
-    url("/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.woff?v=2.0.0")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.woff?v=2.0.0")
       format("woff"),
-    url("/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.svg?v=2.0.0#Ionicons")
+    url("https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/ion-icons/fonts/ionicons.svg?v=2.0.0#Ionicons")
       format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 /*** uncss> filename: https://smartbeatmx.com/wp-content/themes/topfit/assets/css/linea-icons/style.css?ver=6.0 ***/
-@charset "UTF-8";
 @font-face {
   font-family: linea-arrows-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.svg#linea-arrows-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/arrows/fonts/linea-arrows-10.svg#linea-arrows-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: linea-basic-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.svg#linea-basic-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic/fonts/linea-basic-10.svg#linea-basic-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: linea-basic-elaboration-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.svg#linea-basic-elaboration-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.svg#linea-basic-elaboration-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: linea-ecommerce-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.svg#linea-ecommerce-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.svg#linea-ecommerce-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: linea-music-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.svg#linea-music-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/music/fonts/linea-music-10.svg#linea-music-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: linea-software-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.svg#linea-software-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/software/fonts/linea-software-10.svg#linea-software-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: linea-weather-10;
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.eot);
-  src: url(/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.woff)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.svg#linea-weather-10)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linea-icons/weather/fonts/linea-weather-10.svg#linea-weather-10)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -1758,16 +1746,16 @@ footer .mkd-footer-inner {
 /*** uncss> filename: https://smartbeatmx.com/wp-content/themes/topfit/assets/css/linear-icons/style.css?ver=6.0 ***/
 @font-face {
   font-family: linearicons-free;
-  src: url(/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.eot?w118d);
-  src: url(/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.eot#iefixw118d)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.eot?w118d);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.eot#iefixw118d)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.woff2?w118d)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.woff2?w118d)
       format("woff2"),
-    url(/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.woff?w118d)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.woff?w118d)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.ttf?w118d)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.ttf?w118d)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.svg?w118d#Linearicons-Free)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/linear-icons/fonts/Linearicons-Free.svg?w118d#Linearicons-Free)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -1775,32 +1763,31 @@ footer .mkd-footer-inner {
 /*** uncss> filename: https://smartbeatmx.com/wp-content/themes/topfit/assets/css/simple-line-icons/simple-line-icons.css?ver=6.0 ***/
 @font-face {
   font-family: simple-line-icons;
-  src: url(/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0);
-  src: url(/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot?v=2.4.0#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.ttf?v=2.4.0)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.ttf?v=2.4.0)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0)
       format("woff2"),
-    url(/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0)
       format("woff"),
-    url(/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.svg?v=2.4.0#simple-line-icons)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/simple-line-icons/fonts/Simple-Line-Icons.svg?v=2.4.0#simple-line-icons)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 /*** uncss> filename: https://smartbeatmx.com/wp-content/themes/topfit/assets/css/dripicons/dripicons.css?ver=6.0 ***/
-@charset "UTF-8";
 @font-face {
   font-family: dripicons;
-  src: url(/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.eot);
-  src: url(/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.eot#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.eot);
+  src: url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.eot#iefix)
       format("embedded-opentype"),
-    url(/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.ttf)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.ttf)
       format("truetype"),
-    url(/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.svg#dripicons)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.svg#dripicons)
       format("svg"),
-    url(/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.woff)
+    url(https://smartbeat.com.mx/wp-content/themes/topfit/assets/css/dripicons/fonts/dripicons.woff)
       format("woff");
   font-weight: 400;
   font-style: normal;
@@ -2008,14 +1995,14 @@ footer .mkd-footer-inner {
 }
 @font-face {
   font-family: vcpb-plugin-icons;
-  src: url(/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62);
-  src: url(/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62#iefix)
+  src: url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62);
+  src: url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62#iefix)
       format("embedded-opentype"),
-    url(/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62)
+    url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62)
       format("truetype"),
-    url(/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62)
+    url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62)
       format("woff"),
-    url(/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62#vcpb-plugin-icons)
+    url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62#vcpb-plugin-icons)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -2049,14 +2036,14 @@ footer .mkd-footer-inner {
 }
 @font-face {
   font-family: vc_grid_v1;
-  src: url(/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
-  src: url(/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot#iefix-9hbgac)
+  src: url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac);
+  src: url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot#iefix-9hbgac)
       format("embedded-opentype"),
-    url(/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac)
+    url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac)
       format("woff"),
-    url(/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac)
+    url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac)
       format("truetype"),
-    url(/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1)
+    url(https://smartbeat.com.mx/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac#vc_grid_v1)
       format("svg");
   font-weight: 400;
   font-style: normal;
